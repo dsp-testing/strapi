@@ -21,7 +21,7 @@
     "mongoose-long": "^0.3.2",
     "p-map": "4.0.0",
     "pluralize": "^8.0.0",
-    "semver": "^7.3.5",
+    "semver": "^7.5.2",
     "strapi-utils": "3.6.5"
   },
   "author": {
